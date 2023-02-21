@@ -1,0 +1,6 @@
+# Ignore artifacts
+build
+# esto es por si luego le agregan test y no quieren que se suba la carpeta coverage
+coverage
+# esto es porque vite al hacer build genera esta carpeta, salvo que la modifiquen para que sea build
+dist 
